@@ -12,3 +12,6 @@ Bracket fabricated from Aluminum Angle<br>
 Total Cost ~$63<br>
 (Prices gathered Apr '25)
 ![Screenshot](StepperBracket1.jpg)
+![Screenshot](StepperBracket2.jpg)
+![Screenshot](KnobOD.jpg)
+![Screenshot](PulleyID.jpg)
